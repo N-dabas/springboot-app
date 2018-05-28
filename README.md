@@ -17,7 +17,11 @@
 - The shell script in `build.sh` file of this repo was run in the executable shell of jenkins server. See the screenshots.
 - This Jenkins server container running on `port:3000` launches our java app container on `port:3333` after every github push and also pushes the image to `Dockerhub`. Go through the `build.sh` for more details.
 
+## Screenshot:
+
+![alt tag](https://github.com/N-dabas/springboot-app/blob/master/1.png)
 
 
 
 
+![alt tag](https://github.com/N-dabas/Mini-Flick/blob/master/screenshots/6.png)
