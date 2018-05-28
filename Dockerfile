@@ -1,7 +1,7 @@
 FROM java:8
 VOLUME /tmp
 
-#Providing label to our container so that it can be used to stopt the container instead of using containerID
+#Providing label to our container so that it can be used to stop the container instead of using containerID
 LABEL appname=springboot
 
 #Copying the jar file to app.jar
