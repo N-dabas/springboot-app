@@ -22,6 +22,4 @@
 ![alt tag](https://github.com/N-dabas/springboot-app/blob/master/1.png)
 
 
-
-
-![alt tag](https://github.com/N-dabas/Mini-Flick/blob/master/screenshots/6.png)
+![alt tag](https://github.com/N-dabas/springboot-app/blob/master/2.png)
