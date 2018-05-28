@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#stopping and removing the already running container since we want to run the image on the newly pulled same port
+#stopping and removing the already running container since we want to run the newly pulled image on the  same port
 docker kill $(docker ps --filter "label=appname=springboot" -q)
 
 
