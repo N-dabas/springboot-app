@@ -18,4 +18,4 @@ docker pull ndabas333/java-app:latest
 
 
 #running on port 8080 on detached mode
-docker run -d -p 8080:8080  ndabas333/java-app:latest
+docker run -d -p 3333:8080  ndabas333/java-app:latest
